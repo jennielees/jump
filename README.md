@@ -22,7 +22,7 @@ Use via `ju`:
 
 Install
 -------
-Available in the Chrome Web Store [here](https://chrome.google.com/webstore/detail/empty-title/deeodhnicjhejapbkohokpgglnnmgbkc), or as the `.crx` file [here](https://github.com/jennielees/jump/blob/master/jump.crx)
+Available in the Chrome Web Store [here](https://chrome.google.com/webstore/detail/nnmoidfdhdncdeeficmimjfcdbhaaffi), or as the `.crx` file [here](https://github.com/jennielees/jump/blob/master/jump.crx)
 
 Todo
 ---
