@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
 
-    "name": "Jump: URL shortcuts in the omnibox",
+    "name": "jump",
     "description": "Remember sites using words, not long URLs.",
-    "version": "1.0.2",
+    "version": "1.0.3",
 
     "omnibox": {
         "keyword" : "ju"
@@ -47,8 +47,6 @@
         "storage",
         "tabs"
     ]
-    ,
-
-    "short_name": "jump"
+    
 }
 
