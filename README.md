@@ -17,7 +17,7 @@ Add new shortcut:
 
 View all your links:
 
-![Screenshot 2](https://photos-6.dropbox.com/t/0/AAAhi-xik2PhjYBBj2Uqc6-aAKeEow4-L8yxkqvsykTd8Q/12/801807/png/1024x768/3/1388653200/0/2/Screenshot%202014-01-01%2023.35.57.png/8BvW2ynycm00aiYtirwacPCWuOGzChtX6t6tUJL22SU)
+![Screenshot 2](http://i.imgur.com/ANm1sVj.jpg)
 
 Use via `ju`:
 
