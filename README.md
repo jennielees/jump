@@ -7,6 +7,9 @@ Rather than roll a remote shortener, I decided to write a little extension which
 
 Yes, for frequently visited sites this isn't much of an improvement over just typing the first few letters of the site into the omnibox. Where I find this kind of shortcut really handy, though, is for URLs like "New Google Drive document" (or a specific doc), or deep-linking into analytics systems, dashboards, etc -- sites where there are a bunch of potential autocompletes and you can't really tell the difference at a glance.
 
+Install
+-------
+Available in the Chrome Web Store [here](https://chrome.google.com/webstore/detail/nnmoidfdhdncdeeficmimjfcdbhaaffi), or as the `.crx` file [here](https://github.com/jennielees/jump/blob/master/jump.crx)
 
 Screenshots
 -----------
@@ -23,10 +26,6 @@ Use via `ju`:
 
 ![Screenshot 3](https://photos-2.dropbox.com/t/0/AAASxHsQu8GMC92yK3kRol2DjL0Rr5BsKshg4yXwvJ3vFw/12/801807/png/1024x768/3/1388653200/0/2/Screenshot%202014-01-01%2023.44.00.png/8AaAky-s2AonOI7qi2e8_AG2nr6tkhvqszR8vO-Onm0)
 
-Install
--------
-Available in the Chrome Web Store [here](https://chrome.google.com/webstore/detail/nnmoidfdhdncdeeficmimjfcdbhaaffi), or as the `.crx` file [here](https://github.com/jennielees/jump/blob/master/jump.crx)
-
 Todo
 ---
 
@@ -36,3 +35,9 @@ Todo
 * Export to a csv/textfile
 * Paginate list page
 
+Feature Suggestions
+-----
+
+* Change shortcut command (ergonomics)
+* Keyboard shortcut to save new link
+* Auto-parse URLs of the form "go/" or other fake host  
