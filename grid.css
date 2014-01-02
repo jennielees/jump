@@ -1,0 +1,174 @@
+
+
+.container {
+	max-width: 800px;
+}
+
+.light-gray {
+	background: #f9f9f9;
+}
+
+.list-head {
+	line-height: 1.5em;
+	font-size:16px;
+	margin-bottom: 11px;
+	font-weight: 500;
+	padding: 10px;
+}
+
+.list-head div {
+	background: #f4f8fa;
+	border-bottom: 1px solid #BEC5C7;
+	margin-bottom: 10px;
+}
+
+.list-item {
+	line-height: 1.7em;
+	font-size: 14px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.list-item div {
+	margin-bottom: 5px;
+    word-break: break-all;
+
+     /* Non standard for webkit */
+    word-break: break-word;
+
+ 	-webkit-hyphens: auto;
+    hyphens: auto;
+}
+
+.list-item-even div {
+	background: #f9f9f9;
+}
+
+.list-item .url {
+	font-size: 13px;
+}
+
+.input-row {
+	margin-bottom: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.small-textbox {
+	width: 100px;
+}
+
+.med-textbox {
+	width: 255px;
+}
+
+p {
+	font-weight: 300;
+}
+
+.page-header {
+	margin-top: 10px;
+
+	padding-bottom: 1px;
+}
+
+.page-header h1 {
+	margin-bottom: 0px;
+}
+
+.help {
+	max-width: 800px;
+}
+
+.collapse-help {
+	display: inline;
+	float: right;
+	font-size: 12px;
+}
+
+.lead {
+	margin-bottom: 0px;
+}
+
+.add {
+  padding: 0px 20px 0px 20px;
+
+}
+
+.links {
+
+}
+
+.link-list .row  {
+	
+}
+
+input {
+	height: 30px;
+}
+
+.btn-sm {
+	height: 30px;
+	font-size: 14px;
+	padding: 3px 13px 3px 13px;
+	background-color: #46BBD1;
+	border-color: #439DB9;
+}
+
+.list-item .key {
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.list-item .key {
+  padding-left: 20px;
+  font-size: 90%;
+  color: #000;
+  white-space: nowrap;
+  border-radius: 0;
+}
+
+
+/*
+ * Callouts
+ *
+ * Not quite alerts, but custom and helpful notes for folks reading the docs.
+ * Requires a base and modifier class.
+ */
+
+/* Common styles for all types */
+.bs-callout {
+  margin: 20px 0;
+  padding: 20px;
+  border-left: 3px solid #eee;
+  border-right: 3px solid #eee; 
+}
+.bs-callout h4 {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+.bs-callout p:last-child {
+  margin-bottom: 0;
+}
+
+/* Variations */
+.bs-callout-danger {
+  background-color: #fdf7f7;
+  border-color: #eed3d7;
+}
+.bs-callout-danger h4 {
+  color: #b94a48;
+}
+.bs-callout-warning {
+  background-color: #faf8f0;
+  border-color: #faebcc;
+}
+.bs-callout-warning h4 {
+  color: #8a6d3b;
+}
+.bs-callout-info {
+  background-color: #f4f8fa;
+  border-color: #bce8f1;
+}
+.bs-callout-info h4 {
+  color: #34789a;
+}
