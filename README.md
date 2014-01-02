@@ -16,7 +16,7 @@ Screenshots
 
 Add new shortcut:
 
-![Screenshot 1](https://photos-6.dropbox.com/t/0/AAC6IWEMtW47GP1id-olhYZwnO0fWqFHfLEnlRBibEvtWg/12/801807/png/1024x768/3/1388653200/0/2/Screenshot%202014-01-01%2023.47.21.png/5kIAvBmODS29qofGTfG5ZpruoDxEAEvFRZtYh7HX-8U)
+![Screenshot 1](http://i.imgur.com/rOIX7en.png)
 
 View all your links:
 
@@ -24,7 +24,7 @@ View all your links:
 
 Use via `ju`:
 
-![Screenshot 3](https://photos-2.dropbox.com/t/0/AAASxHsQu8GMC92yK3kRol2DjL0Rr5BsKshg4yXwvJ3vFw/12/801807/png/1024x768/3/1388653200/0/2/Screenshot%202014-01-01%2023.44.00.png/8AaAky-s2AonOI7qi2e8_AG2nr6tkhvqszR8vO-Onm0)
+![Screenshot 3](http://i.imgur.com/WOioNXf.png)
 
 Todo
 ---
